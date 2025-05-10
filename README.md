@@ -8,11 +8,12 @@
 
 💻 Hosted and runnable directly on Google Colab
 
-#🔐 Security Note
+# Security Note
+
 Never expose your API keys or credentials in public notebooks or repositories.
 Use environment variables or Colab secrets for secure handling of sensitive information.
 
-#📎 Reference
+# Reference
 1. Angel One SmartAPI Docs
 
 2. PyOTP for 2FA
